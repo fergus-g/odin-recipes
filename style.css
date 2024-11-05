@@ -1,0 +1,40 @@
+* {
+    background-color: aliceblue;
+}
+h1 {
+    color: rgb(75, 207, 227);
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3{
+    text-align: center;
+}
+
+ol {
+    background-color: blue;
+}
+
+p {
+    color: aqua;
+    background-color: black;
+}
+
+ul {
+    background-color: blueviolet;
+}
+
+li {
+    color: teal
+}
+
+.link {
+    font-size: larger;
+    color: green
+}
+
+img {
+    width: 250px;
+    height: auto;
+    margin-left: 150px;
+}
